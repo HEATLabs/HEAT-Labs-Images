@@ -1,6 +1,6 @@
 <div align="center">
 
-# HEAT Labs - Website Images
+# HEAT Labs - Website Images Essentials
 
 <img src="https://raw.githubusercontent.com/HEATLabs/Website-Images/refs/heads/main/social-share/HEATLabs.png" alt="HEAT Labs Banner"/>
 
